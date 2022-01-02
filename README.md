@@ -1,1 +1,1 @@
-# practice_kaggle
+# practice_kaggle and NLP study
